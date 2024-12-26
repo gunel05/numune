@@ -1,0 +1,7 @@
+public class gunel1 {
+    public static void main(String[] args) {
+        System.out.println("numune1 ve gunel1");
+        System.out.println("ssss");
+  
+    }
+}
